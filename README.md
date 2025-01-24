@@ -19,7 +19,7 @@ Task-2
 This project offers a Python-based vulnerability scanner designed to identify common security flaws in web applications, including SQL Injection, Cross-Site Scripting (XSS), and other common vulnerabilities. The tool scans web pages, analyzes input fields, and checks for security issues that could potentially allow attackers to exploit weaknesses in the application.
 
 Clone this repository to your local machine:
-git clone https://github.com/1234141241/Web-Application-venerability-Scanner
+git clone https://github.com/1234141241/Web-Application-Vulnerability-Scanner
 
 Requirements:
 Python 3.x
